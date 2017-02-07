@@ -7,3 +7,6 @@
 [submodule "bundle/nginx-vim-syntax"]
 	path = bundle/nginx-vim-syntax
 	url = git@github.com:evanmiller/nginx-vim-syntax.git
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = git@github.com:rust-lang/rust.vim.git
