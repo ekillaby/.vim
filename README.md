@@ -1,7 +1,7 @@
 # Config for vim
 See also: http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
 
-In `~/.vim` run `git submodule update --recursive` to pull in all submodules.
+In `~/.vim` run `git submodule update --init --recursive` to pull in all submodules.
 
 Add the following to `~/.vimrc`.
 ```
