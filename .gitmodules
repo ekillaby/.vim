@@ -37,3 +37,6 @@
 [submodule "bundle/vim-toml"]
 	path = bundle/vim-toml
 	url = git@github.com:cespare/vim-toml.git
+[submodule "bundle/vim-lua"]
+	path = bundle/vim-lua
+	url = git@github.com:tbastos/vim-lua.git
