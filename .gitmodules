@@ -37,3 +37,6 @@
 [submodule "bundle/vim-lua"]
 	path = bundle/vim-lua
 	url = git@github.com:tbastos/vim-lua.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git@github.com:plasticboy/vim-markdown.git
